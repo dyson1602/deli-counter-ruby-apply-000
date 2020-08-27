@@ -27,6 +27,11 @@ def now_serving(katz_deli)
   end
 end
 
+# counter = 1
+# def take_a_number(counter)
+#   puts "Welcome. You are number #{counter}."
+#   counter += 1
+# end
 
 
 #puts "The line is currently: #{katz_deli.each_with_index{|name, i| print "#{i+1}. #{name} "}}"
